@@ -109,12 +109,6 @@
 </head>
 <body>
 
-  <!-- Background Sound -->
-  <audio autoplay loop>
-    <source src="https://cdn.pixabay.com/download/audio/2022/03/31/audio_28e4d92d93.mp3?filename=tyrannosaurus-rex-roar-111598.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-
   <div class="container">
     <h1>🦖 JURASSIC DIRT BIRTHDAY BASH! 🏍️</h1>
     <div class="emoji">🦕🏍️🦖</div>
